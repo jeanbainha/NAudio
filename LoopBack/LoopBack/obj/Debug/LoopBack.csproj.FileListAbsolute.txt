@@ -1,0 +1,11 @@
+C:\Users\lis\source\repos\LoopBack\LoopBack\bin\Debug\LoopBack.exe.config
+C:\Users\lis\source\repos\LoopBack\LoopBack\bin\Debug\LoopBack.exe
+C:\Users\lis\source\repos\LoopBack\LoopBack\bin\Debug\LoopBack.pdb
+C:\Users\lis\source\repos\LoopBack\LoopBack\bin\Debug\NAudio.dll
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.csprojResolveAssemblyReference.cache
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.Form1.resources
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.Properties.Resources.resources
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.csproj.GenerateResource.Cache
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.csproj.CoreCompileInputs.cache
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.exe
+C:\Users\lis\source\repos\LoopBack\LoopBack\obj\Debug\LoopBack.pdb

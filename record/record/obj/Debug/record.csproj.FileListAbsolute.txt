@@ -1,0 +1,11 @@
+C:\Users\lis\source\repos\record\record\bin\Debug\record.exe.config
+C:\Users\lis\source\repos\record\record\bin\Debug\record.exe
+C:\Users\lis\source\repos\record\record\bin\Debug\record.pdb
+C:\Users\lis\source\repos\record\record\bin\Debug\NAudio.dll
+C:\Users\lis\source\repos\record\record\obj\Debug\record.csprojResolveAssemblyReference.cache
+C:\Users\lis\source\repos\record\record\obj\Debug\record.Form1.resources
+C:\Users\lis\source\repos\record\record\obj\Debug\record.Properties.Resources.resources
+C:\Users\lis\source\repos\record\record\obj\Debug\record.csproj.GenerateResource.Cache
+C:\Users\lis\source\repos\record\record\obj\Debug\record.csproj.CoreCompileInputs.cache
+C:\Users\lis\source\repos\record\record\obj\Debug\record.exe
+C:\Users\lis\source\repos\record\record\obj\Debug\record.pdb

@@ -1,0 +1,11 @@
+C:\Users\lis\source\repos\Effects\Effects\bin\Debug\Effects.exe.config
+C:\Users\lis\source\repos\Effects\Effects\bin\Debug\Effects.exe
+C:\Users\lis\source\repos\Effects\Effects\bin\Debug\Effects.pdb
+C:\Users\lis\source\repos\Effects\Effects\bin\Debug\NAudio.dll
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.csprojResolveAssemblyReference.cache
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.Form1.resources
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.Properties.Resources.resources
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.csproj.GenerateResource.Cache
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.csproj.CoreCompileInputs.cache
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.exe
+C:\Users\lis\source\repos\Effects\Effects\obj\Debug\Effects.pdb

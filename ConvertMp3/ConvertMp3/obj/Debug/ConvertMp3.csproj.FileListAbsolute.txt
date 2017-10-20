@@ -1,0 +1,11 @@
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\bin\Debug\ConvertMp3.exe.config
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\bin\Debug\ConvertMp3.exe
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\bin\Debug\ConvertMp3.pdb
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\bin\Debug\NAudio.dll
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.csprojResolveAssemblyReference.cache
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.Form1.resources
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.Properties.Resources.resources
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.csproj.GenerateResource.Cache
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.csproj.CoreCompileInputs.cache
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.exe
+C:\Users\lis\source\repos\ConvertMp3\ConvertMp3\obj\Debug\ConvertMp3.pdb

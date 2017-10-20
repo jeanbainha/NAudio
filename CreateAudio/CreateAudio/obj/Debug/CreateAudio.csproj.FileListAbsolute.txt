@@ -1,0 +1,11 @@
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\bin\Debug\CreateAudio.exe.config
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\bin\Debug\CreateAudio.exe
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\bin\Debug\CreateAudio.pdb
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\bin\Debug\NAudio.dll
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.csprojResolveAssemblyReference.cache
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.Form1.resources
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.Properties.Resources.resources
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.csproj.GenerateResource.Cache
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.csproj.CoreCompileInputs.cache
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.exe
+C:\Users\lis\source\repos\CreateAudio\CreateAudio\obj\Debug\CreateAudio.pdb
